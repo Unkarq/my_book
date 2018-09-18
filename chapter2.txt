@@ -1,2 +1,3 @@
  umieszczam tekst2 
 zmieniam tekst chaptera 2 
+dodaje tekts z zad3.l) 
