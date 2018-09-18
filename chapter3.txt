@@ -1,1 +1,2 @@
 tekst z chaptera 3 
+v1.1 zmiana z brancha 
